@@ -8,7 +8,7 @@ The project analyses **9,995 viewing sessions and 4,448 verified subscriber prof
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 * [Background](#-background)
 * [Project Overview](#-project-overview)
@@ -27,7 +27,7 @@ The project analyses **9,995 viewing sessions and 4,448 verified subscriber prof
 
 ---
 
-# 📖 Background
+#  Background
 
 BrightTV's CEO set a business objective to **grow the company's subscription base during the financial year**. The CVM team therefore needed insights based on actual subscriber behaviour rather than assumptions.
 
@@ -37,7 +37,7 @@ An important part of the analysis was ensuring that the dataset was reliable bef
 
 ---
 
-# 🔎 Project Overview
+#  Project Overview
 
 This project takes a **data-driven approach to understanding BrightTV's viewing behaviour**.
 
@@ -61,7 +61,7 @@ The overall objective is not simply to report numbers, but to answer:
 
 ---
 
-# 🎯 Business Questions
+#  Business Questions
 
 The analysis was designed around four key business questions:
 
@@ -90,7 +90,7 @@ Identify under-served audience segments and geographic areas where acquisition o
 
 ---
 
-# 🗂️ Data Structure Overview
+#  Data Structure Overview
 
 The project uses two main categories of information:
 
@@ -108,7 +108,7 @@ The profile data provides information about BrightTV subscribers, including attr
 | Province            | Subscriber location                |
 | Social Media Handle | Subscriber profile attribute       |
 
-### 📺 Viewing Session Data
+###  Viewing Session Data
 
 The viewing data records individual subscriber viewing activity.
 
@@ -127,7 +127,7 @@ The two datasets can therefore be combined through the subscriber identifier to 
 
 ---
 
-# 🧹 Data Preparation & Quality Control
+#  Data Preparation & Quality Control
 
 Before analysing the data, several data-quality checks were performed.
 
@@ -156,9 +156,9 @@ The cleaning process helped ensure that the analysis was based on meaningful sub
 
 ---
 
-# 📊 Key Findings
+#  Key Findings
 
-## 📈 1. Viewing consumption increased over the quarter
+##  1. Viewing consumption increased over the quarter
 
 Weekly viewing sessions increased from approximately **508 sessions in Week 1 to 1,405 sessions in Week 13**, representing almost a threefold increase.
 
@@ -166,7 +166,7 @@ The strongest acceleration occurred from approximately Week 7 onwards, coincidin
 
 ---
 
-## 🏆 2. Live sport is a major consumption driver
+##  2. Live sport is a major consumption driver
 
 SuperSport Live Events and ICC Cricket World Cup content produced some of the strongest viewing spikes in the dataset.
 
@@ -176,7 +176,7 @@ This suggests that **live sports fixtures are an important driver of viewing beh
 
 ---
 
-## 📅 3. Viewing varies significantly by day
+##  3. Viewing varies significantly by day
 
 Monday was the quietest overall viewing day, with approximately **956 sessions**, compared with **1,673 sessions on Friday**.
 
@@ -184,7 +184,7 @@ The analysis therefore identified an opportunity to use targeted programming and
 
 ---
 
-## 🗺️ 4. Viewership is geographically concentrated
+##  4. Viewership is geographically concentrated
 
 **Gauteng and the Western Cape account for approximately 56.5% of total viewership.**
 
@@ -204,7 +204,7 @@ Female audiences are also comparatively under-represented in the viewing data.
 
 ---
 
-## ⏰ 6. Time of day affects consumption
+##  6. Time of day affects consumption
 
 Viewing activity increases significantly during key parts of the day.
 
@@ -295,7 +295,7 @@ Improving the experience for these sessions could help protect retention before 
 
 ---
 
-# 📊 Executive Summary
+#  Executive Summary
 
 The analysis suggests that BrightTV's consumption is:
 
@@ -309,7 +309,7 @@ The strongest opportunity is to build on what is already working while deliberat
 
 ---
 
-# 🖼️ Visual Helper
+#  Visual Helper
 
 The project includes a CEO presentation that provides visual summaries of the analysis, including:
 
@@ -322,15 +322,15 @@ The project includes a CEO presentation that provides visual summaries of the an
 * Consumption drivers
 * Business recommendations
 
-📊 **[View the BrightTV CEO Presentation](./BrightTV_CEO_Presentation.pptx)**
+ **[View the BrightTV CEO Presentation](./BrightTV_CEO_Presentation.pptx)**
 
-📄 **[View the BrightTV Case Study](./BrightTV_Case_Study.pdf)**
+ **[View the BrightTV Case Study](./BrightTV_Case_Study.pdf)**
 
 > **Tip:** Add screenshots of your main dashboard/charts to this README so recruiters can understand the project without opening the presentation.
 
 ---
 
-# ▶️ User Instructions
+#  User Instructions
 
 ### To explore the project:
 
@@ -366,7 +366,7 @@ Open the CEO presentation to see how the analytical findings were translated int
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 The project demonstrates the use of:
 
@@ -379,7 +379,7 @@ The project demonstrates the use of:
 
 ---
 
-# 🤝 Contributor Expectations
+#  Contributor Expectations
 
 Contributions are welcome, particularly contributions that improve the analytical depth or presentation of the project.
 
@@ -398,7 +398,7 @@ When contributing:
 
 ---
 
-# 🔮 Recommendations for Future Analysis
+#  Recommendations for Future Analysis
 
 The current analysis provides a strong view of viewing behaviour, but additional data could make the recommendations more powerful.
 
@@ -446,7 +446,7 @@ Future versions could use Python or machine-learning techniques to predict:
 
 ---
 
-# ⚠️ Project Limitations
+#  Project Limitations
 
 The findings should be interpreted within the limitations of the available dataset.
 
@@ -458,7 +458,7 @@ Additional data such as subscription dates, cancellations, marketing campaigns, 
 
 ---
 
-# 🏁 Conclusion
+#  Conclusion
 
 This BrightTV case study demonstrates how subscriber-level viewing data can be transformed into actionable business insights.
 
@@ -474,7 +474,7 @@ rather than stopping at reporting numbers.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Dineo Masetla**
 
